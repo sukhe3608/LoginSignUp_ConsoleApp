@@ -1,1 +1,3 @@
-﻿sultan,@Test123
+username,password
+
+username and password stored in just like above format
