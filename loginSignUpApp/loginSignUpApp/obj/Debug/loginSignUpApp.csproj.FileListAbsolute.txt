@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\loginSignUpApp\loginSignUpApp\obj\Debug\loginSignUpApp.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\loginSignUpApp\loginSignUpApp\obj\Debug\loginSignUpApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\loginSignUpApp\loginSignUpApp\bin\Debug\loginSignUpApp.exe.config
+C:\Users\dell\source\repos\loginSignUpApp\loginSignUpApp\bin\Debug\loginSignUpApp.exe
+C:\Users\dell\source\repos\loginSignUpApp\loginSignUpApp\bin\Debug\loginSignUpApp.pdb
+C:\Users\dell\source\repos\loginSignUpApp\loginSignUpApp\obj\Debug\loginSignUpApp.exe
+C:\Users\dell\source\repos\loginSignUpApp\loginSignUpApp\obj\Debug\loginSignUpApp.pdb
